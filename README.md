@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Sougata Bhattacharya - Actually সৌগত ভট্টাচার্য, but I make do with english alphabets 🙃
+
+I am __সৌগত ভট্টাচার্য__ (Sougata Bhattacharya, in English 🙂)
 
 - 🛠️ Working at [Storebrand](https://www.storebrand.no) as a senior backend developer.
 - 🎓 Studying Masters in Data Science at [NMBU](https://www.nmbu.no/)
