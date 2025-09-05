@@ -6,4 +6,4 @@ I am __সৌগত ভট্টাচার্য__ (Sougata Bhattacharya, in E
 - 🎓 I have a Masters in Data Science from [NMBU](https://www.nmbu.no/)
 -    When I am not coding/studying,
      - 📸 I learn the art of photography
-     - ⌚ and obsess about the history of mechanical watches of which I own a few.
+     - ⌚ obsess about the history of mechanical watches of which I own a few.
