@@ -1,14 +1,16 @@
-### Hi there 👋
+<h2 align="center">Sougata Bhattacharya · সৌগত ভট্টাচার্য</h2>
 
-I am __সৌগত ভট্টাচার্য__ (Sougata Bhattacharya, in English 🙂)
+<p align="center">
+  <b>Lead Developer @ <a href="https://www.storebrand.no">Storebrand</a></b> · MSc Data Science, <a href="https://www.nmbu.no/">NMBU</a>
+</p>
 
-- 🛠️ I work at [Storebrand](https://www.storebrand.no) as a lead developer.
-- 🎓 I have a Masters in Data Science from [NMBU](https://www.nmbu.no/)
--    When I am not coding/studying,
-     - 📸 I learn the art of photography
-     - ⌚ obsess about the history of mechanical watches of which I own a few.
+<p align="center">
+  Building software in banking &amp; fintech — and still enjoying the code.
+</p>
 
-### 🛠️ Tech I work with
+<p align="center">
+  📸 Photography · ⌚ Mechanical watches · 📚 Reading (science, fantasy, fiction)
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
@@ -17,8 +19,7 @@ I am __সৌগত ভট্টাচার্য__ (Sougata Bhattacharya, in E
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-</p>
-<p align="center">
+  <br>
   <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
@@ -27,21 +28,21 @@ I am __সৌগত ভট্টাচার্য__ (Sougata Bhattacharya, in E
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-### 🚀 Featured projects
-
-- **[security-kg](https://github.com/S0UGATA/security-kg)** — a security knowledge graph built from triples. `Python`
-- **[security-kg-viz](https://github.com/S0UGATA/security-kg-viz)** — interactive visualizer for the knowledge graph. `TypeScript`
-
-### 🐍 Contribution snake
+<h3 align="center">🚀 Featured projects</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/S0UGATA/S0UGATA/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake">
-  <img src="https://raw.githubusercontent.com/S0UGATA/S0UGATA/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake">
+  <a href="https://github.com/S0UGATA/security-kg"><b>security-kg</b></a> — a security knowledge graph built from triples · <code>Python</code><br>
+  <a href="https://github.com/S0UGATA/security-kg-viz"><b>security-kg-viz</b></a> — interactive visualizer for the knowledge graph · <code>TypeScript</code>
 </p>
 
-### 🔥 GitHub streak
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S0UGATA/S0UGATA/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/S0UGATA/S0UGATA/output/github-contribution-grid-snake.svg" alt="Contribution snake">
+  </picture>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S0UGATA&theme=default#gh-light-mode-only" alt="GitHub streak">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S0UGATA&theme=github-dark-blue#gh-dark-mode-only" alt="GitHub streak">
+  <a href="https://s0ugata.github.io/resume/"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-2F6FEB?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé"></a>
+  <a href="https://www.linkedin.com/in/bhattacharyasougata/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
